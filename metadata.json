@@ -1,0 +1,8 @@
+{
+  "name": "Wordsmith Academy",
+  "description": "Unlock global opportunities and speak English with confidence. Wordsmith Academy offers practical spoken English, IELTS, business communication, and interview prep courses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
